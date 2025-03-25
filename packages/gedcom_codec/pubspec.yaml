@@ -1,0 +1,23 @@
+name: gedcom_codec
+description: Dart library to serialize, deserialize (parse) GEDCOM strings.
+version: 0.0.1
+repository: https://github.com/MichaelDark/gedcom_codec
+topics:
+  - gedcom
+  - codec
+  - parser
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  meta: ^1.16.0
+  collection: ^1.15.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
+
+  utf_ext: ^0.3.3
+  file: ^7.0.0
+  loop_visitor: ^0.4.0
