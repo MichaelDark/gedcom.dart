@@ -1,7 +1,7 @@
 name: gedcom_structures
 description: Utility Dart library for GEDCOM tags and GEDCOM structures Dart Classes.
-version: 0.0.1
-repository: https://github.com/MichaelDark/gedcom_codec
+version: 0.0.2
+repository: https://github.com/MichaelDark/gedcom.dart
 topics:
   - gedcom
   - codec
@@ -11,7 +11,7 @@ environment:
   sdk: ^3.6.0
 
 dependencies:
-  gedcom_codec: ^0.0.1
+  gedcom_codec: ^0.0.2
   collection: ^1.15.0
 
 dev_dependencies:
